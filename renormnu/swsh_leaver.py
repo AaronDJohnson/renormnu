@@ -1,5 +1,5 @@
 from mpmath import mp, mpf, exp, gamma, sign
-from .swsh_contfrac import contfracK
+from renormnu.swsh_contfrac import contfracK
 import numpy as np
 
 
